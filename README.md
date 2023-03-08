@@ -1,5 +1,5 @@
 # Syfu
-- Developer by BlackoutDev -
+- Developer by BlackoutDev
 
 Syfu is a C# program that is designed to render a system useless. It is small and compact and built for effectiveness. The current payloads are as follows:
 
