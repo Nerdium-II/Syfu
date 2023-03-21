@@ -1,7 +1,7 @@
 # Syfu
 - Developer by BlackoutDev
 
-Syfu is a C# program that is designed to render a system useless. It is small and compact and built for effectiveness. The current payloads are as follows:
+Syfu is a C# program that is designed to render a system useless this is a PoC and should NOT be used for malicious purposes. It is small and compact and built for effectiveness. The current payloads are as follows:
 
     - If terminated the program will create a BSOD
     - MBR Overwrite
